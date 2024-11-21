@@ -4,7 +4,7 @@
 
 # Dijets-Dapp SDKs
 
-Deploy smart contracts, connect to Dijets Utility Chain using Dijets
+Deploy smart contracts, connect to Dijets Utility Chain using Dijets-dApps-sdk
 This is a [Lerna project](https://github.com/lerna/lerna). The idea here is to aggregate all of our SDKs into one mono repo of smaller SDKs. This will avoid having to link a bunch of projects and make it much easier to work features across many SDKs at once.
 
 ## Getting started
